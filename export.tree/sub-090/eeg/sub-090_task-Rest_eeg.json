@@ -1,0 +1,18 @@
+{
+  "InstitutionAddress": "Narayanan Lab / University of Iowa ",
+  "InstitutionName": "169 Newton Road",
+  "InstitutionalDepartmentName": "Department of Neurology",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Brain Vision",
+  "EEGGround": "AFz",
+  "EEGReference": "Pz",
+  "EEGChannelCount": 64,
+  "TaskName": "Rest",
+  "RecordingType": "continuous",
+  "RecordingDuration": 141.82,
+  "SamplingFrequency": 500,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
